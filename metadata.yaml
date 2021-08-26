@@ -1,0 +1,4 @@
+homepage: "https://www.aholddelhaize.com/"
+versions:
+  - sha: todo
+    changeNotes: Initial release.
