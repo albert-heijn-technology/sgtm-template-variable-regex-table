@@ -1,4 +1,4 @@
 homepage: "https://www.aholddelhaize.com/"
 versions:
-  - sha: todo
+  - sha: 63b9f1b1aa1ffa053095a880dbe8b40a3de54cdb
     changeNotes: Initial release.
